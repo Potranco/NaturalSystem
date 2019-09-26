@@ -1,2 +1,5 @@
 # NaturalSystem
-Simulate system natura in web browser
+
+Create Simulate Natural System in web browser by Vince Allen mode info  -> http://buildnewgames.com/simulating-natural-systems/
+
+
